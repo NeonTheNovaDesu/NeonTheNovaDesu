@@ -1,4 +1,8 @@
 ## Hi there 👋
+🌱 I'm currently thinking about to make a game
+and so with that I'm interested in learning about how to make a game
+🤔 I’m looking for help with Game engines godot and game maker
+Ummmm I'm a newbea 
 
 <!--
 **NeonTheNovaDesu/NeonTheNovaDesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
